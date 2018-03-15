@@ -1,0 +1,28 @@
+{
+  "name": "node.mongo",
+  "version": "1.0.0",
+  "description": "node.js express with mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitesoil/node.mongo.git"
+  },
+  "keywords": [
+    "node.js",
+    "mongoDB"
+  ],
+  "author": "Seon Namkung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitesoil/node.mongo/issues"
+  },
+  "homepage": "https://github.com/whitesoil/node.mongo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.10"
+  }
+}
